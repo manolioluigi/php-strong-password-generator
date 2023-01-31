@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #C3ACD0;
+}
+
+.content {
+    background-color: #674188;
+    width: 70%;
+    margin: auto;
+    color: white;
+    border-radius: 20px;
+    padding: 20px 40px;
+}
+
+.height-full {
+    height: 80vh;
+}
